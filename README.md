@@ -74,6 +74,6 @@ DTO для передачи данных о датчике.
 
 Исключение, используемое для обработки ошибок валидации.
 
-### <a src="https://github.com/EugenySpb/AppSensorAndWeatherClient">Клиент для работы с приложением</a>
+### [Клиент для работы с приложением](https://github.com/EugenySpb/AppSensorAndWeatherClient)
 
 ***
