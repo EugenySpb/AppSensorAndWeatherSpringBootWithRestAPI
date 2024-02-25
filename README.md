@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
-Приложение с использованием Spring Security
+Проект REST API для измерений и датчиков погоды 
 </h1>
 <h2 align="center">
 Описание REST API приложения
